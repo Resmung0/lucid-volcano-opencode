@@ -1,0 +1,217 @@
+{
+  "$schema": "https://opencode.ai/theme.json",
+  "defs": {
+    "lava0":  "#181b28",
+    "lava1":  "#1e2031",
+    "lava2":  "#252234",
+    "lava3":  "#3a3554",
+    "lava4":  "#474c60",
+    "lava5":  "#8d184b",
+    "lava6":  "#fff0f0",
+    "lava7":  "#ffffff",
+    "lava8":  "#f20d63",
+    "lava9":  "#891fff"
+  },
+  "theme": {
+    "primary": {
+      "dark": "lava8",
+      "light": "lava8"
+    },
+    "secondary": {
+      "dark": "lava9",
+      "light": "lava9"
+    },
+    "accent": {
+      "dark": "lava8",
+      "light": "lava8"
+    },
+    "error": {
+      "dark": "lava8",
+      "light": "lava8"
+    },
+    "warning": {
+      "dark": "lava5",
+      "light": "lava5"
+    },
+    "success": {
+      "dark": "lava9",
+      "light": "lava9"
+    },
+    "info": {
+      "dark": "lava9",
+      "light": "lava9"
+    },
+    "text": {
+      "dark": "lava6",
+      "light": "lava6"
+    },
+    "textMuted": {
+      "dark": "lava4",
+      "light": "lava4"
+    },
+    "background": {
+      "dark": "lava0",
+      "light": "lava0"
+    },
+    "backgroundPanel": {
+      "dark": "lava1",
+      "light": "lava1"
+    },
+    "backgroundElement": {
+      "dark": "lava2",
+      "light": "lava2"
+    },
+    "border": {
+      "dark": "lava3",
+      "light": "lava3"
+    },
+    "borderActive": {
+      "dark": "lava4",
+      "light": "lava4"
+    },
+    "borderSubtle": {
+      "dark": "lava3",
+      "light": "lava3"
+    },
+    "diffAdded": {
+      "dark": "lava9",
+      "light": "lava9"
+    },
+    "diffRemoved": {
+      "dark": "lava8",
+      "light": "lava8"
+    },
+    "diffContext": {
+      "dark": "lava4",
+      "light": "lava4"
+    },
+    "diffHunkHeader": {
+      "dark": "lava4",
+      "light": "lava4"
+    },
+    "diffHighlightAdded": {
+      "dark": "lava9",
+      "light": "lava9"
+    },
+    "diffHighlightRemoved": {
+      "dark": "lava8",
+      "light": "lava8"
+    },
+    "diffAddedBg": {
+      "dark": "lava2",
+      "light": "lava2"
+    },
+    "diffRemovedBg": {
+      "dark": "lava1",
+      "light": "lava1"
+    },
+    "diffContextBg": {
+      "dark": "lava1",
+      "light": "lava1"
+    },
+    "diffLineNumber": {
+      "dark": "lava4",
+      "light": "lava4"
+    },
+    "diffAddedLineNumberBg": {
+      "dark": "lava2",
+      "light": "lava2"
+    },
+    "diffRemovedLineNumberBg": {
+      "dark": "lava1",
+      "light": "lava1"
+    },
+    "markdownText": {
+      "dark": "lava6",
+      "light": "lava6"
+    },
+    "markdownHeading": {
+      "dark": "lava8",
+      "light": "lava8"
+    },
+    "markdownLink": {
+      "dark": "lava8",
+      "light": "lava8"
+    },
+    "markdownLinkText": {
+      "dark": "lava8",
+      "light": "lava8"
+    },
+    "markdownCode": {
+      "dark": "lava2",
+      "light": "lava2"
+    },
+    "markdownBlockQuote": {
+      "dark": "lava4",
+      "light": "lava4"
+    },
+    "markdownEmph": {
+      "dark": "lava8",
+      "light": "lava8"
+    },
+    "markdownStrong": {
+      "dark": "lava9",
+      "light": "lava9"
+    },
+    "markdownHorizontalRule": {
+      "dark": "lava4",
+      "light": "lava4"
+    },
+    "markdownListItem": {
+      "dark": "lava8",
+      "light": "lava8"
+    },
+    "markdownListEnumeration": {
+      "dark": "lava9",
+      "light": "lava9"
+    },
+    "markdownImage": {
+      "dark": "lava8",
+      "light": "lava8"
+    },
+    "markdownImageText": {
+      "dark": "lava9",
+      "light": "lava9"
+    },
+    "markdownCodeBlock": {
+      "dark": "lava6",
+      "light": "lava6"
+    },
+    "syntaxComment": {
+      "dark": "lava4",
+      "light": "lava4"
+    },
+    "syntaxKeyword": {
+      "dark": "lava8",
+      "light": "lava8"
+    },
+    "syntaxFunction": {
+      "dark": "lava8",
+      "light": "lava8"
+    },
+    "syntaxVariable": {
+      "dark": "lava7",
+      "light": "lava7"
+    },
+    "syntaxString": {
+      "dark": "lava9",
+      "light": "lava9"
+    },
+    "syntaxNumber": {
+      "dark": "lava9",
+      "light": "lava9"
+    },
+    "syntaxType": {
+      "dark": "lava7",
+      "light": "lava7"
+    },
+    "syntaxOperator": {
+      "dark": "lava8",
+      "light": "lava8"
+    },
+    "syntaxPunctuation": {
+      "dark": "lava6",
+      "light": "lava6"
+    }
+  }
+}
